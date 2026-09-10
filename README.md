@@ -109,12 +109,3 @@ The website therefore separates structural components where the data are availab
 Component-level information allows the analysis to investigate whether deterioration is concentrated in a particular bridge component.
 
 For example, two bridges may both have an overall condition classification of "Poor" while having substantially different component-level deterioration patterns.
-
-The current analysis therefore preserves the distinction between:
-
-Overall Bridge Condition
-        ↓
-Deck Condition
-Superstructure Condition
-Substructure Condition
-Culvert Condition
